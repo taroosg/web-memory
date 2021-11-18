@@ -8,4 +8,5 @@ version = "0.1.0"
 
 [dependencies]
 hyper = {version = "0.14.7", features = ["full"]}
+tera = "1.10.0"
 tokio = {version = "1.6.0", features = ["macros", "rt-multi-thread"]}
